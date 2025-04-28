@@ -7,7 +7,7 @@
   **Tourly** is a fully responsive travel website, built using **HTML**, **CSS**, and **JavaScript**.  
   It is optimized for all devices and offers a great user experience.
 
-  <a href="https://tarak6984.github.io/Travel-Website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://travel-website-dxt4q2wju-taraks-projects-d28f2f72.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
